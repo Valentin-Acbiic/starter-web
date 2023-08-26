@@ -1,2 +1,4 @@
 IgnoreExample.txt
 log/
+*.orig
+
